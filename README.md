@@ -30,7 +30,7 @@ subprocess.run([r"C:\Program Files\Calibre2\ebook-convert.exe", input_path, outp
 ### **4️⃣ Run the App**
 Clone the repository and run the Streamlit app:
 ```sh
-git clone https://github.com/yourusername/kindle-to-pdf.git
+git clone https://github.com/Udit11/Kindle-to-pdf.git
 cd kindle-to-pdf
 streamlit run app.py
 ```
