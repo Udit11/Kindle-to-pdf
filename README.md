@@ -19,7 +19,6 @@ Kindle-to-PDF-Converter/
 │
 ├── app.py                    # Main Streamlit application script
 ├── README.md                 # Project documentation (this file)
-├── screenshot.png            # Screenshot of the application interface
 ├── requirements.txt          # List of Python dependencies
 ```
 
@@ -69,11 +68,6 @@ Kindle-to-PDF-Converter/
 2. **Upload a File**: Select a Kindle book file (`.azw3`, `.mobi`, or `.epub`) using the file uploader.
 3. **Convert**: Click the **Convert** button to process the file into PDF format.
 4. **Download**: Download the converted PDF file via the provided link.
-
----
-
-## Screenshot
-![Kindle to PDF Converter Screenshot](screenshot.png)
 
 ---
 
